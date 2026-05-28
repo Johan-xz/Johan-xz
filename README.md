@@ -20,16 +20,6 @@
 ## 👤 About me
 
 Results-driven software engineer with hands-on experience in backend development, machine learning, and operations optimization. Proven track record of measurable impact — from boosting e-commerce fulfillment rates to **98.5%** to mentoring peers in applied ML models. Passionate about software architecture, AI applications, and continuous learning.
-
----
-
-## 🎓 Education
-
-| Institution | Degree | Location | Date |
-|---|---|---|---|
-| **UANL** (Universidad Autónoma de Nuevo León) | Software Engineering | Monterrey, NL | July 2025 |
-| **High School #16, UANL** | Bilingual Progressive French High School | San Nicolás de los Garza, NL | July 2019 |
-
 ---
 
 ## 🛠️ Skills & Technologies
